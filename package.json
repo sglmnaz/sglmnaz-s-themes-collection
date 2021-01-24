@@ -1,0 +1,36 @@
+{
+    "name": "sglmnaz.themes-collection",
+    "displayName": "Sglmnaz's themes collection",
+    "description": "A collection of themes by Sglmnaz",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Sglmnaz's collection - midnight contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/midnight-contrast.json"
+            },
+            {
+                "label": "Sglmnaz's collection - palenight dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/palenight-dark.json"
+            },
+            {
+                "label": "Sglmnaz's collection - palenight dark muted",
+                "uiTheme": "vs-dark",
+                "path": "./themes/palenight-dark-muted.json"
+            },
+            {
+                "label": "Sglmnaz's collection - mirage dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/mirage-dark.json"
+            }
+        ]
+    }
+}
