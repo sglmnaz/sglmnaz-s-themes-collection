@@ -5,7 +5,7 @@ My collection of color themes for Visual Studio Code, you can download and use t
 
 ### Installation
 - Download this repository 
-- copy the main directory in C:/Users/<your user>/.vscode/extensions
+- copy the main directory in C:/Users/YOUR_USER/.vscode/extensions
 - restart VS Code
 - change the active color theme
 - enjoy 🥳
