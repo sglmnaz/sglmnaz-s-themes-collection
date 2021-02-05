@@ -35,6 +35,11 @@
                 "label": "Sglmnaz's collection - mirage dark alt",
                 "uiTheme": "vs-dark",
                 "path": "./themes/mirage-dark-alt.json"
+            },
+            {
+                "label": "Sglmnaz's collection - chrome dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/chrome-dark.json"
             }
         ]
     }
