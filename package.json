@@ -40,6 +40,16 @@
                 "label": "Sglmnaz's collection - mirage dark alt contrast",
                 "uiTheme": "vs-dark",
                 "path": "./themes/mirage-dark-alt-contrast.json"
+            },
+            {
+                "label": "Sglmnaz's collection - chrome dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/chrome-dark.json"
+            },
+            {
+                "label": "Sglmnaz's collection - chrome dark contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/chrome-dark-contrast.json"
             }
         ]
     }
