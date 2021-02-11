@@ -142,7 +142,7 @@
 			"settings.headerForeground": "#cbccc6",
 			"settings.modifiedItemIndicator": "#77a8d9",
 			"sideBar.background": "#202124",
-			"sideBar.border": "#202124",
+			"sideBar.border": "#15171A30",
 			"sideBarSectionHeader.background": "#15171A",
 			"sideBarSectionHeader.border": "#15171A70",
 			"sideBarSectionHeader.foreground": "#B5B8BB",
