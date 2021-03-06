@@ -12,6 +12,11 @@
     "contributes": {
         "themes": [
             {
+                "label": "Sglmnaz's collection - code dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/code-dark.json"
+            },
+            {
                 "label": "Sglmnaz's collection - midnight contrast",
                 "uiTheme": "vs-dark",
                 "path": "./themes/midnight-contrast.json"
