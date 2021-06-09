@@ -57,9 +57,14 @@
                 "path": "./themes/chrome-dark-contrast.json"
             },
             {
-                "label": "Sglmnaz's collection - gitHub dark contrast",
+                "label": "Sglmnaz's collection - gitHub dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/github-dark.json"
+            },
+            {
+                "label": "Sglmnaz's collection - seastream dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/seastream-dark.json"
             }
         ]
     }
