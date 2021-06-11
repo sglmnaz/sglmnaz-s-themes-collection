@@ -555,7 +555,7 @@
 		//"tab.hoverForeground": null,
 		//"tab.unfocusedHoverBorder": null,
 		//"tab.unfocusedHoverForeground": null,
-		//"terminal.background": null,
+		"terminal.background": "#0E1019",
 		//"terminalCursor.background": null,
 		//"terminalCursor.foreground": null,
 		//"testing.message.hint.lineBackground": null,
