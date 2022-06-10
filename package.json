@@ -1,51 +1,61 @@
 {
-   "name": "sglmnaz.themes-collection",
-   "displayName": "Sglmnaz's themes collection",
-   "description": "A collection of themes by Sglmnaz",
-   "version": "0.0.1",
-   "engines": {
-      "vscode": "^1.51.0"
-   },
-   "categories": [
-      "Themes"
-   ],
-   "contributes": {
-      "themes": [
-         {
-            "label": "Sglmnaz's collection - code dark",
-            "uiTheme": "vs-dark",
-            "path": "./themes/code-dark.json"
-         },
-         {
-            "label": "Sglmnaz's collection - midnight contrast",
-            "uiTheme": "vs-dark",
-            "path": "./themes/midnight-contrast.json"
-         },
-         {
-            "label": "Sglmnaz's collection - chrome dark",
-            "uiTheme": "vs-dark",
-            "path": "./themes/chrome-dark.json"
-         },
-         {
-            "label": "Sglmnaz's collection - chrome dark contrast",
-            "uiTheme": "vs-dark",
-            "path": "./themes/chrome-dark-contrast.json"
-         },
-         {
-            "label": "Sglmnaz's collection - gitHub dark",
-            "uiTheme": "vs-dark",
-            "path": "./themes/github-dark.json"
-         },
-         {
-            "label": "Sglmnaz's collection - seastream dark",
-            "uiTheme": "vs-dark",
-            "path": "./themes/seastream-dark.json"
-         },
-         {
-            "label": "Sglmnaz's collection - seastream dark contrast",
-            "uiTheme": "vs-dark",
-            "path": "./themes/seastream-dark-contrast.json"
-         }
-      ]
-   }
+  "name": "sglmnaz.themes-collection",
+  "displayName": "Sglmnaz's themes collection",
+  "description": "A collection of themes by Sglmnaz",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sglmnaz's collection - code dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/code-dark.json"
+      },
+      {
+        "label": "Sglmnaz's collection - midnight contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-contrast.json"
+      },
+      {
+        "label": "Sglmnaz's collection - chrome dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chrome-dark.json"
+      },
+      {
+        "label": "Sglmnaz's collection - chrome dark contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chrome-dark-contrast.json"
+      },
+      {
+        "label": "Sglmnaz's collection - gitHub dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-dark.json"
+      },
+      {
+        "label": "Sglmnaz's collection - seastream dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/seastream-dark.json"
+      },
+      {
+        "label": "Sglmnaz's collection - seastream dark contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/seastream-dark-contrast.json"
+      },
+      {
+        "label": "Sglmnaz's collection - code dark flate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/code-dark-flate.json"
+      },
+      {
+        "label": "Sglmnaz's collection - seastream dark flate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/seastream-dark-flate.json"
+      }
+    ]
+  }
 }
