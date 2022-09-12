@@ -55,6 +55,11 @@
         "label": "Sglmnaz's collection - seastream dark flate",
         "uiTheme": "vs-dark",
         "path": "./themes/seastream-dark-flate.json"
+      },
+      {
+        "label": "Sglmnaz's collection - obsidian dark flate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/obsidian-dark-flate.json"
       }
     ]
   }
