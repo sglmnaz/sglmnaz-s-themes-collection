@@ -591,7 +591,7 @@
       "settings": {
         // "foreground": "#77b3ee",
         "foreground": "#77FFFF",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -689,7 +689,7 @@
       ],
       "settings": {
         "foreground": "#A29BFE",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -733,7 +733,7 @@
       ],
       "settings": {
         "foreground": "#FF5D8F",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -765,7 +765,7 @@
       ],
       "settings": {
         "foreground": "#A29BFE",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -790,7 +790,7 @@
       ],
       "settings": {
         "foreground": "#A29BFE",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -816,7 +816,7 @@
       ],
       "settings": {
         "foreground": "#444d56",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -841,7 +841,7 @@
       ],
       "settings": {
         "foreground": "#E9DBDB90",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -859,7 +859,7 @@
       ],
       "settings": {
         "foreground": "#00CECB",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -878,7 +878,7 @@
       ],
       "settings": {
         "foreground": "#F0AA85",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -900,7 +900,7 @@
       ],
       "settings": {
         "foreground": "#FF5D8F",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -924,21 +924,21 @@
       ],
       "settings": {
         "foreground": "#F0AA85",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
       "scope": [],
       "settings": {
         "foreground": "#EAB464",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
       "scope": [],
       "settings": {
         "foreground": "#F38375",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -1004,7 +1004,7 @@
       ],
       "settings": {
         "foreground": "#E9DBDB",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {

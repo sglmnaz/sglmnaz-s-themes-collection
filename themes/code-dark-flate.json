@@ -221,7 +221,7 @@
       ],
       "settings": {
         "foreground": "#8F8D88",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -281,7 +281,7 @@
       ],
       "settings": {
         "foreground": "#00CECB",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -317,7 +317,7 @@
       ],
       "settings": {
         "foreground": "#A29BFE",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -355,7 +355,7 @@
       ],
       "settings": {
         "foreground": "#E84855",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -380,7 +380,7 @@
       ],
       "settings": {
         "foreground": "#23D18C",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -419,7 +419,7 @@
       ],
       "settings": {
         "foreground": "#424B54",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -437,7 +437,7 @@
       ],
       "settings": {
         "foreground": "#00CECB",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -456,7 +456,7 @@
       ],
       "settings": {
         "foreground": "#F0AA85",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -478,7 +478,7 @@
       ],
       "settings": {
         "foreground": "#FF5D8F",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -502,7 +502,7 @@
       ],
       "settings": {
         "foreground": "#F49E4C",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -522,7 +522,7 @@
       ],
       "settings": {
         "foreground": "#EAB464",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -532,7 +532,7 @@
       ],
       "settings": {
         "foreground": "#F38375",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -585,7 +585,7 @@
       ],
       "settings": {
         "foreground": "#E9DBDB",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
@@ -623,7 +623,7 @@
       ],
       "settings": {
         "foreground": "#FFE066",
-        "fontStyle": "none"
+        "fontStyle": ""
       }
     },
     {
