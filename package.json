@@ -60,6 +60,11 @@
         "label": "Sglmnaz's collection - obsidian dark flate",
         "uiTheme": "vs-dark",
         "path": "./themes/obsidian-dark-flate.json"
+      },
+      {
+        "label": "Sglmnaz's collection - dashboard dark flate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dashboard-dark-flate.json"
       }
     ]
   }
