@@ -65,6 +65,11 @@
         "label": "Sglmnaz's collection - dashboard dark flate",
         "uiTheme": "vs-dark",
         "path": "./themes/dashboard-dark-flate.json"
+      },
+      {
+        "label": "Sglmnaz's collection - Mightyena dark flate",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mightyena-dark-flate.json"
       }
     ]
   }
